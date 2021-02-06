@@ -1,3 +1,5 @@
+https://laajaj.github.io/IA-and-industrie-state-of-the-art/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/laajaj/IA-and-industrie-state-of-the-art/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
