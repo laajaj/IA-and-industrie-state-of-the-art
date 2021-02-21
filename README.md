@@ -1,3 +1,5 @@
+# to go to "readme 2" file clik here[readmefile2](https://laajaj.github.io/IA-and-industrie-state-of-the-art/readme2)
+
 https://laajaj.github.io/IA-and-industrie-state-of-the-art/
 
 ## Welcome to GitHub Pages
